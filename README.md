@@ -7,6 +7,8 @@
 
 ---
 
+<!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/ts1p4x68ezcwbofpgaw2.webm" data-background-video-loop="loop" data-background-video-muted -->
+
 # [es-explained]()
 
 ## ECMAScript, TC39 and The Future of JavaScript
@@ -15,8 +17,6 @@
 #### CJ on Denver Devs
 
 ---
-
-<!-- https://flixels.s3.amazonaws.com/flixel/de6w5hh1ijhzux3c3pah.webm -->
 
 <!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/ypy8bw9fgw1zv2b4htp2.webm" data-background-video-loop="loop" data-background-video-muted -->
 
@@ -45,6 +45,9 @@
 </div>
 
 ---
+
+<!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/3uvqg0wiaxbi5blj9qda.webm" data-background-video-loop="loop" data-background-video-muted -->
+
 
 # The History of JavaScript
 
@@ -327,7 +330,11 @@ Official goals: a better language for
 
 ---
 
-# TC39
+<!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/sjytbnalz6tpbgl9jqzn.webm" data-background-video-loop="loop" data-background-video-muted -->
+
+<div style="background: rgba(0, 0, 0, 0.5);padding: 20px;">
+  <h1>TC39</h1>
+</div>
 
 ----
 
@@ -365,6 +372,8 @@ Official goals: a better language for
 [Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 
 ---
+
+<!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/h1pnkz1q4exz9wy0d70a.webm" data-background-video-loop="loop" data-background-video-muted -->
 
 # [es-next](https://github.com/hemanth/es-next)
 
@@ -405,9 +414,13 @@ Official goals: a better language for
 
 ---
 
-# [es-explained]()
+<!-- .slide: data-background-video="https://flixels.s3.amazonaws.com/flixel/ts1p4x68ezcwbofpgaw2.webm" data-background-video-loop="loop" data-background-video-muted -->
 
-## ECMAScript, TC39 and The Future of JavaScript
+# Thanks!
 
-#### hello@cjr.co.de
-#### CJ on Denver Devs
+## [es-explained]()
+
+### ECMAScript, TC39 and The Future of JavaScript
+
+##### hello@cjr.co.de
+##### CJ on Denver Devs
