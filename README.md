@@ -406,10 +406,15 @@ Official goals: a better language for
 
 ---
 
-## Resources: Videos
+## Resources: Media
 
-* [Alejandro Oviedo - THE !FUTURE OF JAVASCRIPT](https://www.youtube.com/watch?v=n84fLyM_88w)
+* [Brendan Eich on JavaScript at 17 - O'Reilly Fluent 2012](https://www.youtube.com/watch?v=Rj49rmc01Hs)
+* [Brenda Eich on JavaScript at 18: Legal to Gamble - Fluent 2013](https://www.youtube.com/watch?v=qrf9ONmtXbM)
+* [Brendan Eich on JavaScript Taking Both the High and Low Roads - O'Reilly Fluent 2014](https://www.youtube.com/watch?v=aZqhRICne_M)
+* [ECMAScript Harmony: Rise of the Compilers - Brendan Eich keynote](https://www.youtube.com/watch?v=PlmsweSNhTw)
+* [Alejandro Oviedo - THE !FUTURE OF JAVASCRIPT (Spanish Audio)](https://www.youtube.com/watch?v=n84fLyM_88w)
 * [Nordic.js 2016 • Jem Young - Embracing The Future](https://www.youtube.com/watch?v=CRjGt0KfjzE)
+* [JavaScript Jabber #124: The Origin of Javascript with Brendan Eich](https://devchat.tv/js-jabber/124-jsj-the-origin-of-javascript-with-brendan-eich)
 * [JavaScript Air - The past, present and Future of Javascript](https://javascriptair.com/episodes/2015-12-09/)
 
 ---
